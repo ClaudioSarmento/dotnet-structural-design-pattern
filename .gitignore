@@ -14,3 +14,6 @@ obj/
 
 # Logs
 *.log
+/.vs/PadroesDeProjetoEstrutural.slnx/v18/DocumentLayout.backup.json
+/.vs/PadroesDeProjetoEstrutural.slnx/v18/DocumentLayout.json
+/.vs/PadroesDeProjetoEstrutural.slnx/v18/.suo
