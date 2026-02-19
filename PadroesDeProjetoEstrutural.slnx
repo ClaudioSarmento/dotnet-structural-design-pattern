@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Bridge/Bridge.csproj" Id="3f43c58b-1c71-4511-828e-b732cdfbad8c" />
   <Project Path="ClassAdapter/ClassAdapter.csproj" Id="9e45fe0d-7908-4224-8bc0-a32f65767f9b" />
 </Solution>
