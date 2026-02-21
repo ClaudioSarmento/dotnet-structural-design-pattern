@@ -3,4 +3,5 @@
   <Project Path="ClassAdapter/ClassAdapter.csproj" Id="9e45fe0d-7908-4224-8bc0-a32f65767f9b" />
   <Project Path="Composite/Composite.csproj" Id="ea9e66c2-e9fe-4cca-a3d8-ca55b0e73889" />
   <Project Path="Decorator/Decorator.csproj" Id="8d15f1a7-9ad1-4bf4-9c12-e9b2271cc7da" />
+  <Project Path="Facade/Facade.csproj" Id="f6f9a8fb-2cfe-4a4f-801d-347e3645acbf" />
 </Solution>
