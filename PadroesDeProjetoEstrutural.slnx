@@ -8,4 +8,5 @@
   <Project Path="Memento/Memento.csproj" Id="464c6dc2-b520-4b9c-96ec-cbaac43a63e1" />
   <Project Path="Observer/Observer.csproj" Id="e85340aa-53b3-49fd-8532-3650a1ecb72a" />
   <Project Path="Proxy/Proxy.csproj" Id="28b3b690-a2b2-47db-8e55-117c2a2fd8d4" />
+  <Project Path="State/State.csproj" Id="935e8e4b-1758-4e1a-943a-d9c808f0e18b" />
 </Solution>
